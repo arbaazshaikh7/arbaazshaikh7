@@ -12,6 +12,12 @@ End-to-end automated ERP workflow integrating Python, SQL, n8n, and Streamlit to
 
 ---
 
+### 🔹 Warehouse Analytics Dashboard (Power BI)
+Interactive Power BI dashboard for monitoring inventory, inbound/outbound operations, fulfillment performance, and warehouse KPIs.
+👉 https://github.com/arbaazshaikh7/warehouse-analytics-dashboard
+
+---
+
 ### 🔹 Sales Performance Dashboard (Power BI)
 Interactive Power BI dashboard analyzing sales, profit, and regional performance across segments and time  
 👉 https://github.com/arbaazshaikh7/powerbi-sales-dashboard  
