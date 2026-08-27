@@ -6,6 +6,12 @@ Data Analyst specializing in SQL, Python, Power BI, and ERP systems (Epicor, SAP
 
 ## 🚀 Featured Projects
 
+### 🔹 AI Career Agent
+End-to-end job discovery, scoring, and cover letter automation platform — built with FastAPI, PostgreSQL, and Next.js/React, using Playwright-based scraping and a weighted opportunity-scoring engine.  
+👉 https://github.com/arbaazshaikh7/AI-Career-Agent  
+
+---
+
 ### 🔹 ERP Automation Data Pipeline
 End-to-end automated ERP workflow integrating Python, SQL, n8n, and Streamlit to generate real-time KPIs and streamline reporting  
 👉 https://github.com/arbaazshaikh7/erp-workflow-automation  
